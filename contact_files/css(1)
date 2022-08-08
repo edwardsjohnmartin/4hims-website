@@ -1,0 +1,40 @@
+@font-face {
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://web.archive.org/web/20210413014402im_/http://fonts.gstatic.com/s/josefinsans/v17/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_DjQbMZhKg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Syncopate';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://web.archive.org/web/20210413014402im_/http://fonts.gstatic.com/s/syncopate/v12/pe0sMIuPIYBCpEV5eFdCBfe6.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Syncopate';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://web.archive.org/web/20210413014402im_/http://fonts.gstatic.com/s/syncopate/v12/pe0pMIuPIYBCpEV5eFdKvtKqBP5q.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 01:44:02 Apr 13, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:38:06 Aug 08, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 396.416
+  exclusion.robots: 0.121
+  exclusion.robots.policy: 0.11
+  RedisCDXSource: 70.862
+  esindex: 0.012
+  LoadShardBlock: 282.594 (3)
+  PetaboxLoader3.datanode: 71.582 (4)
+  CDXLines.iter: 22.282 (3)
+  load_resource: 55.9
+  PetaboxLoader3.resolve: 24.127
+*/

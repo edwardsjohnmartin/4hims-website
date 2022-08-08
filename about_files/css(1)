@@ -1,0 +1,40 @@
+@font-face {
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Josefin Sans Regular'), local('JosefinSans-Regular'), url(https://web.archive.org/web/20180705143826im_/http://fonts.gstatic.com/s/josefinsans/v12/Qw3aZQNVED7rKGKxtqIqX5EUDXx9.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Syncopate';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Syncopate Regular'), local('Syncopate-Regular'), url(https://web.archive.org/web/20180705143826im_/http://fonts.gstatic.com/s/syncopate/v9/pe0sMIuPIYBCpEV5eFdCBfe6.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Syncopate';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Syncopate Bold'), local('Syncopate-Bold'), url(https://web.archive.org/web/20180705143826im_/http://fonts.gstatic.com/s/syncopate/v9/pe0pMIuPIYBCpEV5eFdKvtKqBP5q.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 14:38:26 Jul 05, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:07:34 Aug 08, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 161.882
+  exclusion.robots: 0.083
+  exclusion.robots.policy: 0.076
+  cdx.remote: 0.072
+  esindex: 0.01
+  LoadShardBlock: 90.759 (3)
+  PetaboxLoader3.datanode: 73.092 (4)
+  CDXLines.iter: 19.58 (3)
+  load_resource: 142.048
+  PetaboxLoader3.resolve: 96.843
+*/
